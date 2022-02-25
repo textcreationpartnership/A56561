@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of penal laws in matter of religion endeavouring to prove that there is no necessity of inflicting or continuing them : first delivered in a sermon ... occasioned by His Majesties late gracious declaration for liberty of conscience, and now humbly offer'd to the consideration of the publick / by James Paston ...</title>
+            <author>Paston, James, d. 1722?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56561</idno>
+            <idno type="STC">Wing P665</idno>
+            <idno type="STC">ESTC R915</idno>
+            <idno type="EEBO-CITATION">13170671</idno>
+            <idno type="OCLC">ocm 13170671</idno>
+            <idno type="VID">98280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 432:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of penal laws in matter of religion endeavouring to prove that there is no necessity of inflicting or continuing them : first delivered in a sermon ... occasioned by His Majesties late gracious declaration for liberty of conscience, and now humbly offer'd to the consideration of the publick / by James Paston ...</title>
+                  <author>Paston, James, d. 1722?</author>
+               </titleStmt>
+               <extent>[2], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance"</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:98280:1"/>
+            <opener>
+               <dateline>
+                  <hi>VVhitehall</hi>
+                  <date>18th. day of <hi>February</hi>
+1687/8.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi rend="blackletterType">Let this be Printed,</hi>
+            </p>
+            <closer>
+               <signed>Sunderland P.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:98280:1"/>
+            <p>A DISCOURSE OF Penal Laws IN MATTER OF RELIGION: Endeavouring to prove that there is no Ne<g ref="char:EOLhyphen"/>ceſſity of Inflicting or Continuing Them. Firſt delivered in a SERMON On theſe Words, <hi>Ye know not what manner of Spirit ye are of:</hi> OCCASIONED BY His Majeſties late Gracious Declaration FOR
+<hi rend="blackletterType">Liberty of Conſcience,</hi> And now humbly Offer'd to the Conſideration of the Publick.</p>
+            <p>By <hi>James Paſton</hi> A. M. Rector of
+<hi>Little-Livermere</hi> in <hi>Suffolk,</hi> and Chaplain to the Right Honourable Sir <hi>Robert Wright</hi> Lord Chief Juſtice of
+<hi>England.</hi>
+            </p>
+            <p>
+               <hi rend="blackletterType">With Allowance.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for the Author, <hi>Anno Domini</hi>
+1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:98280:2"/>
+            <pb n="1" facs="tcp:98280:2"/>
+            <head>A DISCOURSE OF Penal Laws IN MATTER OF RELIGION.</head>
+            <epigraph>
+               <q>
+                  <bibl>Luke 9.55.</bibl>
+                  <p>
+                     <hi>Ye know not what manner of Spirit ye are of.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>OUR Bleſſed Saviour being to paſs through ſome Villages of
+<hi>Samaria,</hi> as he was going to <hi>Jeruſalem,</hi> he ſends two of his Diſciples to prepare his Way: But the <hi>Samaritans</hi> underſtanding that he was bound for <hi>Jeruſalem,</hi> (a place which they envy'd and hated) rudely refuſe to give him Entertainment.</p>
+            <p>
+               <pb n="2" facs="tcp:98280:3"/>The two Diſciples therefore, being pro<g ref="char:EOLhyphen"/>vok'd by this bold Affront, offer'd to the Son of God, their beloved Maſter; and know<g ref="char:EOLhyphen"/>ing withall how great Power he had in Hea<g ref="char:EOLhyphen"/>ven, and remembring what was recorded of <hi>Elias;</hi>
+               <note place="margin">2 Kings 1.10.</note> (a much Inferior Prophet) That he had call'd down Fire from thence to conſume the Captains and their Fiftys, who were ſent to Apprehend him: They, in the Tran<g ref="char:EOLhyphen"/>ſport of their Zeal, deſir'd the like Revenge upon theſe Inhoſpitable
+<hi>Samaritans;</hi> and ask'd this great Prophet, <hi>Lord wilt thou, that we command down Fire from Heaven, and con<g ref="char:EOLhyphen"/>ſume them as did</hi> Elias? But he turn'd, and rebuk'd them, and ſaid, <hi>Ye know not what manner of Spirit ye are of.</hi>
+            </p>
+            <p>The word <hi>Spirit</hi> here ſignifies an Oecono<g ref="char:EOLhyphen"/>my, or an Order, or a Temper, or Diſpo<g ref="char:EOLhyphen"/>ſition. So that when our Saviour tells them,
+<hi>They know not what manner of Spirit they are of;</hi> he means, they knew not, or conſider not the Oeconomy or Order of the <hi>Goſpel:</hi> They conſider not what Temper and Diſ<g ref="char:EOLhyphen"/>poſition that requires in its
+<hi>Profeſſors</hi> and <hi>Propagators.</hi>
+            </p>
+            <p>And ſo we may ſee the rebuke of our Sa<g ref="char:EOLhyphen"/>viour, in theſe Words to this Diſciples, will afford us theſe ſeveral Obſervations.
+<pb n="3" facs="tcp:98280:3"/>
+               <list>
+                  <item>1. <hi>How apt even good Men are to be Impatient, when they meet with Oppoſition.</hi>
+                  </item>
+                  <item>2. <hi>That it is a Fault to be ſo Impatient.</hi>
+                  </item>
+                  <item>3. <hi>That the Spirit of the <hi>Law</hi> is different from that of the <hi>Goſpel.</hi>
+                     </hi>
+                  </item>
+                  <item>4. <hi>That Men are apt to forget, or not to regard what manner of Spirit they are of.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. We may obſerve, how apt even good Men are to be Impatient, when they meet with Oppſition. We ſee it in the Diſciples: Men ſo good, that they had forſaken all to follow Chriſt, even whilſt he was look'd upon by the <hi>Chief-Prieſts,</hi> and <hi>Scribes,</hi> and
+<hi>Phariſes,</hi> by the <hi>Herodians,</hi> and by the ge<g ref="char:EOLhyphen"/>nerality of the People to be an <hi>Impoſtor,</hi> and an Enemy to the eſtabliſh'd Government: They followed him, when he had not where to lay his Head: They had been under his immediate Divine Tuition for ſeveral years; for it was now, when he was going to <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> to be Crucify'd; they had ſeen the Holy Examples of his Life, they had heard his Doctrines, of <hi>Humility,</hi> of <hi>Meekneſs,</hi> of <hi>Charity,</hi> of <hi>Long-Suffering</hi> and
+<hi>Forbearance;</hi> theſe Doctrines they had been taught from his own Mouth: And yet theſe good Men,<pb n="4" facs="tcp:98280:4"/>who had been ſo advantagiouſly Taught, by the beſt of Examples, and beſt of Preachers, grow ſo Impatient, when they meet with Oppoſition, that no leſs than Fire from Heaven will ſuffice to Revenge them upon their Oppoſers: The Oppoſition indeed which they meet with is bold and daring, Oppoſition to the Son of God! But yet we ſee.</p>
+            <p n="2">2. Their Impatience, though it was up<g ref="char:EOLhyphen"/>on this account, was a Fault; otherwiſe they had not been rebuk'd for it by our Sa<g ref="char:EOLhyphen"/>viour. The
+<hi>Samaritans</hi> were guilty of a high provoking Sin, in refuſing to give Reception to the Son of God, who came to Save them from eternal Ruine, and unſpeakable Mi<g ref="char:EOLhyphen"/>ſery; in refuſing to give Entertainment to him in his Journey, when he was going to perform this great and Merciful work; this ſure was a Sin: And yet Chriſt rebukes his Diſciples for being ſo haſty, in calling for Vengeance upon the Sinners. When we think our ſelves in the right, and by the Warrant of Chriſt himſelf know our ſelves to be ſo; when we are about that very buſi<g ref="char:EOLhyphen"/>neſs which Chriſt has ſet us; when we meet with Oppoſition in the performance of it, and thereupon grew Impatient, and de<g ref="char:EOLhyphen"/>ſirous<pb n="5" facs="tcp:98280:4"/>of Revenge, we become Guilty of a Fault, which deſerves Rebuke. For,</p>
+            <p n="3">3. From the Words we may obſerve, that the Spirit of the
+<hi>Law</hi> is different from that of the <hi>Goſpel;</hi> and that upon many Accounts.</p>
+            <p>
+               <hi>Firſt,</hi> Upon the Account of the firſt
+<hi>Au<g ref="char:EOLhyphen"/>thors</hi> and <hi>Promulgers</hi> of each. <hi>Moſes</hi> indeed, by whom came the <hi>Law.</hi>
+               <note place="margin">Num. 12.3.</note> is ſaid to be the meekeſt Man upon Earth; yet we find him in his Anger ſlaying an <hi>Egyptian,</hi>
+               <note place="margin">Exod. 2.12.</note> caſting the two
+<hi>Tables</hi> out of his Hands and breaking them in Pieces;
+<note place="margin">Num. 32.19</note> but we Read of no ſuch violent tranſports of Paſſion and Zeal in Chriſt, the prime
+<hi>Author</hi> of the <hi>Goſpel:</hi> There appears in him nothing but Meekneſs and Humility. When he comes into the World, he makes Choice of a poor Virgin to be his Mother,
+<note place="margin">Luke 1.</note> and he diſdains not to be called the Carpenters Son;
+<note place="margin">Mat. 13.55.</note> he is Born in no better place, than a Stable;
+<note place="margin">Luke 2.7.</note> he is laid in no better Cradle than a Manger. When the Angel gives him a Name,
+<note place="margin">Mat. 1.21.</note> it is ſuch a one as ſignifies Love and Mercy, <hi>Jeſus</hi> a Saviour; when St. <hi>John</hi> points him out,
+<note place="margin">Joh. 1.29.</note> 'tis under the Name of a
+<hi>Lamb,</hi> the meekeſt of Creatures; and when Almighty foretells of him by his <hi>Prophet,</hi> he deſcribes him,
+<note place="margin">Iſai. 42.2.</note> 
+               <hi>As one ſo gentle, that he ſhould not break the bruiſed Reed, nor quench the ſmoaking Flax.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:98280:5" rendition="simple:additions"/>
+               <pb n="6" facs="tcp:98280:6"/>
+               <hi>Secondly,</hi> Different alſo in the way of pro<g ref="char:EOLhyphen"/>mulging and propagating of each;
+<note place="margin">Exod. 20.18</note> for the <hi>Law</hi> was delivered with the Terrors of Thunderings and Lightnings,
+<note place="margin">Exod. 23.31</note> and the <hi>Sword</hi> made way for its Profeſſors, by rooting the Enemies of God out the Land of
+<hi>Canaan.</hi>
+               <note place="margin">Num. 33.52</note> God Almighty then Styles himſelf the <hi>Lord of Hoſts,</hi>
+               <note place="margin">Deut. 9.3.</note> and appears in Camps and Armies;
+<note place="margin">1 Sam. 1.3.</note> but the <hi>Goſpel</hi> is deliver'd without noiſe: The ſame <hi>Prophet</hi> ſays,
+<note place="margin">Iſa. 42.2.</note> concerning its firſt Inſtitutor, <hi>That he ſhall not Strive, nor Cry, nor lift up, nor cauſe his Voice to be heard in the Streets.</hi>
+            </p>
+            <p>And when he ſends forth his <hi>Apoſtles,</hi> he tells them,
+<note place="margin">Mat. 10.16. 9.10.</note> 
+               <hi>It is as Sheep among Woolves;</hi> the Meekeſt Gentleſt Creatures among the moſt Violent and Ravenous; and yet he allows them no other Defence or Support but their Innocence: Neither <hi>Gold</hi> nor <hi>Silver</hi> in their Purſes, nor Staves in their Hands; they may indeed be as Wiſe as <hi>Serpents,</hi>
+               <note place="margin">16.</note> but then they muſt be alſo as Harmleſs as <hi>Doves.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Different alſo in the Doctrine of each. The
+<hi>Law</hi> teaches an active Valour,
+<note place="margin">Deut. 31.6.</note> to be ſtrong and of good Courage: But the <hi>Goſpel</hi> a Paſſive; to turn the other Cheek, when one is ſmitten; and Bleſſedneſs we find chiefly promiſed to ſuffering Vertues.<pb n="9" facs="tcp:98280:6"/>To the poor in Spirit,
+<note place="margin">Mat. 5.</note> to thoſe that Mourn, to the Meek, to the Merciful, to thoſe that are Perſecuted for Righteouſneſs ſake: The <hi>Law</hi> forbad Actual Killing, but the <hi>Goſpel</hi> even Cauſeleſs Anger: The <hi>Law</hi> allow'd Retaliation, Eye for Eye, and Tooth for Tooth; but the <hi>Goſpel</hi> forbids reſiſting of Evil: The
+<hi>Law</hi> commands loving of Neigh<g ref="char:EOLhyphen"/>bours, and hating of Enemies; but the
+<hi>Go<g ref="char:EOLhyphen"/>ſpel</hi> commands loving of Enemies, to Bleſs them that Curſe us, to do good to them that hate us, and to Pray for them that deſpite<g ref="char:EOLhyphen"/>fully Uſe and Perſecute us.</p>
+            <p>
+               <hi>Fourthly,</hi> Different alſo were the Behavi<g ref="char:EOLhyphen"/>ours of the Propagators of each towards thoſe that oppos'd them, and different the Pu<g ref="char:EOLhyphen"/>niſhments of their Oppoſers. When <hi>Pharaoh</hi> withſtood
+<hi>Moſes,</hi>
+               <note place="margin">Exod. 7. &amp;c.</note> Miracles of Vengeance are inflicted; his Rod is turn'd into a ſtinging Serpent; the Waters of
+<hi>Egypt</hi> into Blood; the gain-ſaying People are infeſted with Frogs, and Flies, and Locuſts, with ſuch Darkneſs as might be felt; the Duſt of the Land is turn'd into Lice; the Cattel are af<g ref="char:EOLhyphen"/>flicted with Murrain; the People with Boils and Blains, both Man and Beaſt with Thun<g ref="char:EOLhyphen"/>der and Hail, and Fire running upon the Ground; all the firſt born of <hi>Egypt</hi> are ſmitten<pb n="10" facs="tcp:98280:7"/>with ſudden Death. And <hi>Moſes</hi>'s Law more over inflicted Death upon ſeveral ſorts of Criminals among themſelves. The <hi>Mur<g ref="char:EOLhyphen"/>derer,</hi>
+               <note place="margin">Num. 25.16</note> the <hi>Thief,</hi> the Breaker of the <hi>Sabbath,</hi>
+               <note place="margin">Deut. 24.7.</note> the <hi>Rebellious</hi> and
+<hi>Diſobedient</hi> were to die the Death;
+<note place="margin">Exo. 31.15.</note> and the <hi>Prieſts</hi> themſelves ſome<g ref="char:EOLhyphen"/>times were the Executioners of Mortal Ven<g ref="char:EOLhyphen"/>geance,
+<note place="margin">Deut. 21.21</note> and ſometimes procured it by mi<g ref="char:EOLhyphen"/>raculous Means. <hi>Phineas</hi> the Son of <hi>Eleazer</hi> Stabs
+<hi>Corby</hi> and the <hi>Midianitiſh</hi> Woman;
+<note place="margin">Num. 25.8.</note> the Sons of <hi>Levi</hi> are commanded by <hi>Moſes</hi> him<g ref="char:EOLhyphen"/>ſelf to put on every Man his Sword, and to go in and out, from Gate to Gate, through<g ref="char:EOLhyphen"/>out the Camp, and to ſlay every Man his Neighbour; the Prophet mention'd in this Chapter by the Diſciples, call'd down Fire from Heaven, upon the Captains and their Fiftys who were ſent to apprehend him. Theſe and many other Inſtances we have in the <hi>Old Teſtament,</hi> ſhewing the vindictive Be<g ref="char:EOLhyphen"/>haviour of the Aſſerters and Propagators of the Law, towards thoſe who infring'd or oppos'd it.</p>
+            <p>But the Carriage of the meek Lamb of God is quite different: All his Miracles were ſuch as were winning, not terrifying; Mira<g ref="char:EOLhyphen"/>cles of Mercy, not of Vengeance; all per<g ref="char:EOLhyphen"/>form'd without noiſe or Pomp. He feeds
+<pb n="11" facs="tcp:98280:7"/>the Hungry, gives Sight to the Blind, Hear<g ref="char:EOLhyphen"/>ing to the Deaf, Raiſes the Dead.
+<note place="margin">Mat. 14.19. 12.22. Mark. 7.35.</note> And when notwithſtanding all theſe wonderful Works of Love, he is led as a Lamb to the Slaughter,
+<note place="margin">Act. 8.32.</note> and as a Sheep before her Shearer is Dumb, he opens not his Mouth, unleſs it be to put in practice his ſtupendiouſly Cha<g ref="char:EOLhyphen"/>ritable precept of Praying for his Maliciouſ<g ref="char:EOLhyphen"/>ly Blind Perſecutors. <hi>Father forgive them, they know not what they do;</hi>
+               <note place="margin">Luk: 23.34.</note> No Vengeance, no return but of Good for Evil; no Fire from Heaven but that of Love to melt their hard Hearts: No exterior Force, no out<g ref="char:EOLhyphen"/>ward Puniſhments are made neceſſary in the <hi>Goſpel.</hi> For the <hi>Chriſtian Church</hi> was to over<g ref="char:EOLhyphen"/>come its Adverſaries by meekneſs, to con<g ref="char:EOLhyphen"/>quer by patient Suffering, to ſilence its Gain<g ref="char:EOLhyphen"/>ſayers by Martyrdom.</p>
+            <p>It is true we find ſuch an Expreſſion as this in a Parable,
+<hi>Compel them to come in:</hi>
+               <note place="margin">Luk. 14.23.</note> But its force ſeems to be abated in another, where it is ſaid,
+<note place="margin">Mat. 13.29.</note> 
+               <hi>Let the Wheat and the Tares grow together till the day of Judgement:</hi> In which laſt Parable Chriſt Intimates at leaſt, that there is no abſolute neceſſity of rooting up; probably leaſt ſome undiſcerning raſh Hand pluck up the Wheat with the Tares, deſtroy the good with the bad; and then moreover
+<pb n="12" facs="tcp:98280:8"/>that Expreſſion, <hi>Compell them to come in;</hi>
+               <note place="margin">
+                  <hi>Paraphraſe upon the place.</hi>
+               </note> Ac<g ref="char:EOLhyphen"/>cording to the Learned Dr. <hi>Hammond</hi> im<g ref="char:EOLhyphen"/>plyes not outward Force, but the more gentle compulſion of Love: Which as the Wiſe man tells us,
+<note place="margin">Cant. 8.6.</note> 
+               <hi>Is as ſtrong as Death; Compel them to come in,</hi> according to the <hi>Paraphraſt,</hi> is importunately Woo them.</p>
+            <p>And the Apoſtles followed their Maſter in theſe ways of Meekneſs; they propaga<g ref="char:EOLhyphen"/>ted his Religion by gentle means, by their own, not by others Suffering; they endur'd Stripes and Impriſonment, and Death;
+<note place="margin">Act. 5.40. 2 Cor. 11 25</note> but inflicted none of theſe Severities upon others, either without or within the Church.
+<note place="margin">Act. 12.2. 7.58.</note> 
+               <hi>Ana<g ref="char:EOLhyphen"/>nias</hi> and
+<hi>Saphira</hi> were deſtroyed by ſudden Death,
+<note place="margin">Act. 5.5.10.</note> but it was by the immediate Hand of God Almighty; we read not that this Vengeance was called for, or ſo much as wiſh'd for by the Apoſtles, whom theſe Cri<g ref="char:EOLhyphen"/>minals endeavour'd to impoſe upon; the Apoſtles ſure were <hi>Infallibly</hi> certain that they taught the Truth,
+<note place="margin">Joh. 16.13. Mat 28.22. Luk. 10.16.</note> and yet they endeavour'd with all midneſs to perſwade others to em<g ref="char:EOLhyphen"/>brace it, and with Patience endur'd the ſtub<g ref="char:EOLhyphen"/>born and unreaſonable contradiction of their Oppoſers.</p>
+            <p>And this gentle courſe was taken alſo in ſucceeding Ages, and the Church grew and<pb n="13" facs="tcp:98280:8"/>flouriſh'd by being irregated by the Blood, not of Adverſaries, but of its Martyr'd Chil<g ref="char:EOLhyphen"/>dren; near three hundred years paſs'd from the death of our Saviour, before there were any Chriſtian Kings or Emperours, and therefore before there was any outward Force. And yet Chriſtianity made out its way, not like <hi>Vinegar</hi> or
+<hi>Aqua-fortis,</hi> but like <hi>Oyl</hi> it gently ſpread, and eaſily inſinuated into all Bodies, and all Societies; it con<g ref="char:EOLhyphen"/>quer'd without any Sword, but that of the Spirit. There was no rooting out of a
+<hi>Ca<g ref="char:EOLhyphen"/>naanite,</hi> no ſlaying of Old and Young, In<g ref="char:EOLhyphen"/>fant and Suckling, Sheep and Oxen. And when <hi>Chriſtians</hi> took up Arms, it was in De<g ref="char:EOLhyphen"/>fence of their Goverours, and by Temporal Authority, upon which account they often laid down their Lives, but would not other<g ref="char:EOLhyphen"/>wiſe lift up their Hands to defend themſelves from their Perſecuting Enemies. For,</p>
+            <p>
+               <hi>Fifthly,</hi> The <hi>Law</hi> and the <hi>Goſpel</hi> differ'd in their very Conſtitution. By the <hi>Law</hi> the Civil and Eccleſiaſtical Powers were blend<g ref="char:EOLhyphen"/>ed and interwoven together, from the be<g ref="char:EOLhyphen"/>ginning, by God Almighty's own Authority: And <hi>Moſes</hi> and
+<hi>Aaron</hi> went Hand in Hand. But the <hi>Goſpel</hi> came into the World without any Temporal Power to ſupport it; all<pb n="14" facs="tcp:98280:9"/>Temporal Governments were againſt it. <hi>Their Lord of Hoſts</hi> now become the
+<hi>Prince of Peace,</hi> and the <hi>Lyon of the Tribe of</hi> Judah, <hi>the meek Lamb of God;</hi> ſo great and ſo mani<g ref="char:EOLhyphen"/>manifold were Differences between the <hi>Law</hi> and the <hi>Goſpel.</hi> The Spirit of Chriſtianity is a Spirit of Meekneſs; the Diſpoſition and Temper of Chriſtians, ought to be Meek, and Humble, and Patient: But according to the</p>
+            <p n="4">IV. Next Obſervation from the Words, men are apt to forget, or not to regard what manner of Spirit they are of. It is evident from their being ſo prone to be car<g ref="char:EOLhyphen"/>ried away by a different Spirit from that of the <hi>Goſpel;</hi> we ſee it even in theſe two Diſ<g ref="char:EOLhyphen"/>ciples of our Saviour, and too frequently in ſome of all ſorts of Men; Oppoſition moves their Paſſion, and Paſſion hurrys them be<g ref="char:EOLhyphen"/>yond the bounds of Reaſon and Reli<g ref="char:EOLhyphen"/>gion; and they ſo far forget themſelves, as to imagine that Fire from Heaven, or Fire upon Earth, or ſome other outward Penalties are neceſſary for the ſupport of Chriſtian Religion, and that it cannot ſubſiſt without confiſcating the Goods of its Oppoſers, Stripes and Impriſonments, Hanging and Quartering and other like Penalties inflicted
+<pb n="15" facs="tcp:98280:9"/>upon the perſons of the Adverſaries; as if Religion had loſt that Primitive Native Beauty by which it tempted the greateſt and moſt reaſonable part of the World to its Embraces: As if it had loſt that Primitive Native Strength, whereby it ſtood the ſhock and violence of the Powers of the Earth and Hell, and now ſtood in need ſo much of out<g ref="char:EOLhyphen"/>ward Terrours that it could not ſubſiſt with<g ref="char:EOLhyphen"/>out them. That Chriſt's Religion prevail'd for the firſt three hundred years without theſe outward Helps, is not to be deny'd; nay that it has prevail'd in ſeveral places of the World is as undenyable, and that Naked and Unarm'd; and that there is no one place in all the <hi>New Teſtament,</hi> that ſeems ſo much as to countenance outward Compulſion, is as evident. If any Church Tradition does warrant it, I think it is yet to be produced; and therefore I cannot ſee, what Spirit they are of, who ſo zealouſly aſſert the neceſſity of ſuch outward <hi>Penal Laws.</hi> I know it has been frequently urg'd by ſome, that the reaſon why the Primitive Chriſtians made no uſe of them, was becauſe they were not protected by the Civil Power; but ſhall we imagine, that one ſort of Temper is requir'd in Chriſtians in the time of Adverſity, and<pb n="16" facs="tcp:98280:10"/>another quite contrary in the time of Pro<g ref="char:EOLhyphen"/>ſperity? One whiles they were under Perſe<g ref="char:EOLhyphen"/>cution, and another when by being favour'd by the Civil Magiſtrate they were in a con<g ref="char:EOLhyphen"/>dition to Perſecute one another? That Chriſt deſign'd that the Meekneſs of his Followers, in the times of Perſecution, ſhould be only a trick to Wheedle, and lull a ſleep the civil Magiſtrate, till the Sword drop'd out of his Hand, that they might ſnatch it up, and uſe it againſt their Adverſaries and one another. When Chriſt did forbear puniſhing his Mali<g ref="char:EOLhyphen"/>cious Oppoſers, it was not becauſe he wan<g ref="char:EOLhyphen"/>ted Power to avenge himſelf; he could have commanded Fire from Heaven;
+<note place="margin">Mat. 26.53.</note> 
+               <hi>Or more then twelve Legions of Angels</hi> to this purpoſe, but it was not according to the Spirit of the <hi>Goſpel.</hi>
+            </p>
+            <p>But now after all this, that this Diſcourſe might be the leſs imperfect, there are ſeve<g ref="char:EOLhyphen"/>ral things to be conſider'd. As
+<list>
+                  <item>1. <hi>Whether Chriſt did not deſign Unity in his Church?</hi>
+                  </item>
+                  <item>2. <hi>What means himſelf has appointed to effect this Deſign?</hi>
+                  </item>
+                  <item>3. <hi>Whether outward Force has not been made uſe of to this purpoſe?</hi>
+                  </item>
+                  <pb n="17" facs="tcp:98280:10"/>
+                  <item>4. <hi>Whence this outward Force did proceed?</hi>
+                  </item>
+                  <item>5. <hi>Whether this outward Force be always and alike neceſſary?</hi>
+                  </item>
+                  <item>6. <hi>In whoſe Power it is to Inflict, or remit Temporal Puniſhments?</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. Whether or no Chriſt did deſign Unity in his Church? Which doubtleſs he did as much as he deſign'd Truth and Holineſs; for we find that he ſays concerning thoſe that ſhall hear his Voice,
+<note place="margin">Joh. 10.16. Joh. 17.11.</note> 
+               <hi>That they ſhall be one Fold under one Shepheard;</hi> And in his Prayer, he thus Supplicates his Heavenly Father, <hi>Holy Father, keep through thine own Name thoſe, whom thou haſt given me,</hi> that they <hi>may be one as we are;</hi> and ſo in ſeveral other places. And therefore in the
+<hi>Acts</hi> we read,
+<note place="margin">Act. 4.32.</note> that they <hi>Continued daily with one accord;</hi> and that <hi>the whole Multitude of them that believ'd were of one Heart, and of one Soul, I therefore the Priſoner of the Lord, beſeech you</hi> (ſays the <hi>Apoſtle</hi>)
+<note place="margin">Eph. 4.1.</note> 
+               <hi>that ye walk worthy of the Vocation wherewith ye are called.—Endeavouring to keep the Unity of the Spirit in the Bond of Peace;</hi> and afterwards, there is one <hi>Body, and one Spirit, one Hope of your Calling, one Lord, one Faith, one Baptiſm;</hi> and the ſame <hi>Apoſtle,</hi>
+               <note place="margin">4, 5, 6. verſes of the ſame chap.</note>
+               <hi>Now I beſeech you Brethren, that ye<pb n="18" facs="tcp:98280:11"/>all ſpeak the ſame thing,</hi>
+               <note place="margin">1 Cor. 1.10.</note> 
+               <hi>and that ye be perfectly joyn'd together in the ſame Mind, and in the ſame Judgement.</hi> So that it is evident, that <hi>Chriſt</hi> deſign'd Unity in his Religion, and this might be made appear further from the Writings of the Holy Fathers, and the De<g ref="char:EOLhyphen"/>crees of Sacred Councils: Whoſe very de<g ref="char:EOLhyphen"/>ſign of meeting was for the Preſervation of Unity, but I have not room here to inſiſt upon ſuch Proofs, and therefore I paſs to the</p>
+            <p n="2">2. Second Coſideration; namely what means Chriſt has appointed as requiſite to this purpoſe: And thoſe are, to teach his Doctrine to Mankind. <hi>Go ye,</hi> (ſays he to his Apoſtles)
+<note place="margin">Mat. 28.19.</note> 
+               <hi>and Teach all Nations;</hi> To Ad<g ref="char:EOLhyphen"/>miniſter his Sacraments, whereby Chriſtians might grow together in his Doctrines;
+<note place="margin">1 Tim. 5.20.</note> to Rebuke the Diſobedient, and to caſt out of the Chriſtian Society the Stubborn, and the Obſtinate,
+<hi>With ſuch, no not to eat.</hi>
+               <note place="margin">1 Cor. 5.13. 1 Cor. 16.22 1 Cor. 5.11.</note> And becauſe differences might ariſe, as well a<g ref="char:EOLhyphen"/>bout Religious as other Concerns, he appoints that Appeals ſhould be made to the Church; and that they who ſubmitted not to her De<g ref="char:EOLhyphen"/>terminations, ſhould be look'd upon as
+<hi>Hea<g ref="char:EOLhyphen"/>thens and Publicans;</hi>
+               <note place="margin">Mat. 18.17.</note> that is, ſhould be de<g ref="char:EOLhyphen"/>priv'd of the ordinary Means of Salvation. Theſe are the Means by which Chriſt ap<g ref="char:EOLhyphen"/>pointed,<pb n="19" facs="tcp:98280:11"/>that Unity ſhould be preſerved in his Religion. Nothing in all this of Out<g ref="char:EOLhyphen"/>ward Force, nothing of Puniſhment of the Body or Purſe. I come now therefore to conſider,</p>
+            <p n="3">3. Whether or not Outward Force has not been made uſe of to effect this Deſign? Which doubtleſs it has; and People have been puniſhed in Body, in Purſe, by loſs of outward Priviledges, of Liberty, and of Life, in all Chriſtian Nations in general, and in Ours in particular. The Law for Burning of <hi>Hereticks,</hi> was in Force at leaſt two hun<g ref="char:EOLhyphen"/>dred and ſixty years: For as our <hi>Engliſh</hi> Chronicle tells us,
+<note place="margin">
+                  <hi>Baker's</hi> Chronicle fol. 168. Prin<g ref="char:EOLhyphen"/>ted
+1674.</note> it was firſt put in Execu<g ref="char:EOLhyphen"/>tion in the Reign of <hi>Henry</hi> IV. and continued Un-repealed till about the middle of the Reign of the late King; and even ſince the Reformation there have been ſeveral other Laws made for the External Puniſhment of <hi>Diſſenters</hi> from this Church: Twelve Pence a <hi>Sunday,</hi> Twenty Pounds a Month, taking away the Goods, Impriſoning and Baniſh<g ref="char:EOLhyphen"/>ing Excommunicate Perſons; ſuch outward Puniſhments and others more ſevere, have been inflicted even under
+<hi>Proteſtant Princes,</hi> upon the Diſobedient and Diſſenting in matters of Religion, and that in this our<pb n="20" facs="tcp:98280:12"/>Nation. And indeed almoſt all ſorts of Men, I may ſay all, who have had opportunity by being aſſiſted by the Civil Magiſtrate, have at one time or other thus puniſh'd thoſe that have Diſſented from them; and the very ſame kind of Men, nay ſometimes the very ſame Men, who have been very Clamorous againſt ſuch Severities under one Govern<g ref="char:EOLhyphen"/>ment, have themſelves inflicted them under another. It muſt therefore be granted, that outward Force has been made uſe of, to compel the Profeſſors of Chriſtianity to Uni<g ref="char:EOLhyphen"/>ty in Religion: And now therefore we come to conſider in the</p>
+            <p n="4">4. Fourth place, whence this outward Force proceeded. And to this end we muſt conſider, that in the Chriſtian World there have been two ſeveral dſtinct <hi>Powers, Civil and Eccleſiaſtical;</hi> the power of the <hi>Church,</hi> and the power of the <hi>State.</hi> The power of the Church reſides in <hi>Biſhops</hi> and other Church-Governours, and Teachers; the power of the State reſides in <hi>Emperours</hi> and
+<hi>Kings:</hi> And theſe powers, though diſtinct, pro<g ref="char:EOLhyphen"/>ceed both from one and the ſame God: <hi>There is no Power but of God,</hi> ſays the
+<hi>Apoſtle.</hi>
+               <note place="margin">Rom. 13.1.</note> The Kings and Emperours of the World had a power from him before ever there was<pb n="21" facs="tcp:98280:12"/>a
+<hi>Chriſtian Church:</hi> And the <hi>Chriſtian Church</hi> had its power, before ever there was a <hi>Chri<g ref="char:EOLhyphen"/>ſtian King</hi> or <hi>Emperour.</hi> To
+<hi>Kings</hi> and <hi>Emperours,</hi> and other Civil Governours, God Almighty gave power to make Laws, and to puniſh the Diſobedient by outward pu<g ref="char:EOLhyphen"/>niſhments, ſuch as Stripes and Impriſon<g ref="char:EOLhyphen"/>ments, by loſs of Limbs or by Death; that they might be a <hi>Terror to the Wicked;</hi>
+               <note place="margin">Rom. 13.3,4.</note> there<g ref="char:EOLhyphen"/>fore of ſuch a Magiſtrate the <hi>Apoſtle</hi> tells us, that <hi>He bears not the Sword in vain.</hi> To the Church he gave power to Teach, to Ex<g ref="char:EOLhyphen"/>hort, to Rebuke, to Injoyn (though not to Force) Penances, and to Excommunicate. This power was given Originally to <hi>Chriſt,</hi> and he delegated it to his
+<hi>Apoſtles</hi> and their Succeſſors, <hi>As my Father ſent me, ſo I ſend you.</hi> They had no power to go any further; all outward puniſhments muſt proceed from the Civil Magiſtrate; he, under God, is the ſole Fountain of Co-ercive power, and all <hi>Penal Laws</hi> and the Execution of them muſt proceed from him. And this appears by conſidering that there were no Co-ercive <hi>Pe<g ref="char:EOLhyphen"/>nal Laws</hi> to compel men to Unity in Chri<g ref="char:EOLhyphen"/>ſtian Religion, till Kings and Emperours became Chriſtian; and then by Vertue of that power, which they had before they<pb n="23" facs="tcp:98280:13"/>were Chriſtian, they made Laws for the out<g ref="char:EOLhyphen"/>ward puniſhment of the Diſobedient, as Infringers of their own Laws, and Diſturbers of their own Government, and of that Church, whoſe protection they had under<g ref="char:EOLhyphen"/>taken. The Civil power then arm'd in its Defence, and that in this, as well as in all other Chriſtian Kingdoms; it is therefore from hence that all outward puniſhments proceed. I paſs now to the</p>
+            <p n="5">5. <hi>Fifth</hi> conſideration; Namly whether this outward Force be always and alike ne<g ref="char:EOLhyphen"/>ceſſary to be put in Execution? which doubt<g ref="char:EOLhyphen"/>leſs it is not. For it is evident from thoſe Hiſtorical accounts, which no man denys to be true, that <hi>Chriſtian Religion</hi> not only ſtood, but flouriſh'd and wonderfully in<g ref="char:EOLhyphen"/>creas'd, during the firſt three hundred years, when all the Kings and Emperours in the World, inſtead of ſupporting it, endeavour'd by all means, whereſoever it appear'd, to ſuppreſs it; by Flatteries and Temptations or Honour, they endeavour'd to Allure its Profeſſors from it, by Scorns and Reproaches to ſhame them, by the moſt ſevere Baniſh<g ref="char:EOLhyphen"/>ments and Impriſonments, by the moſt cruel Tortures and Deaths to Terrify them. Racks and Wheels, Broiling alive upon
+<pb n="22" facs="tcp:98280:13"/>Gridirons, Impaling Alive upon Stakes, rending in Pieces by Wild-Horſes, Crucify<g ref="char:EOLhyphen"/>ing, Devouring by Wild-beaſts, and many other Barbarous and Inhumane Cruelties were made uſe of to deſtroy
+<hi>Chriſtianity,</hi> and its Holy Profeſſors, but all in vain: Which plainly and undenyably Demonſtrates, that <hi>Christianity</hi> can ſtand without outward Pu<g ref="char:EOLhyphen"/>niſhments inflicted upon its Oppoſers, ſince it cannot be ruin'd by them.</p>
+            <p>
+               <hi>Chriſtian Governours</hi> have, and do at this day make uſe of ſome ſevere Means in ſome <hi>Chriſtian Countries</hi> to compel <hi>Chriſtians</hi> to Unity: How warrantably, is out of my Sphere to diſpute, much more to determine. All that I drive at, is only to ſhew, that there is no Abſolute Neceſſity of ſo doing at all Times, and in all Places. For there is diffe<g ref="char:EOLhyphen"/>rence between preventing am Evil, and en<g ref="char:EOLhyphen"/>deavouring to remedy it, when it is too great for a remedy, and when the Remedy is worſe than the Diſeaſe; there is difference between preventing the ſowing of Tares among the Wheat, and plucking them up when ſown and grown together.</p>
+            <p>And it is conſiderable, that Diſſenting in matters of Religion is not always guilty of the ſame degree of Malignity, In all pro<g ref="char:EOLhyphen"/>bability<pb n="24" facs="tcp:98280:14"/>the firſt Diſſenters had more of Pride in their Diſſenting: When one man, or ſome few ſhould break from a Communion, and thinking themſelves Wiſer than a whole Church, make and begin a Separation from it, and ſtubbornty perſiſt in their ſingular Errours; but Education, and want of due Information may make the
+<hi>Schiſm</hi> leſs Cri<g ref="char:EOLhyphen"/>minal in their Succeſſors; they have, it may be, ſince the beginning, had among them men of Parts and Learning, and (as they ſuppoſe) men of Integrity; they have had alſo among them ſuch as have Suffer'd in the Cauſe which they adher'd to. Children are apt to think well of their Parents, and to be<g ref="char:EOLhyphen"/>lieve, that they would never have lived and died in this or that Religion, and have re<g ref="char:EOLhyphen"/>commended it alſo thoſe whom they Lov'd ſo dearly, unleſs they had been certain of its Truth.</p>
+            <p>Theſe things conſider'd, no man can ſay, that there is always the ſame reaſon for put<g ref="char:EOLhyphen"/>ting <hi>Penal Laws</hi> in Execution, eſpecially when they, who are lyable to be puniſh'd by them, are ſo numerous, that it is the way to make a Kingdom Deſolate, and to render a Prince King of a Wilderneſs. And beſides, when we have no aſſurance that Gentleneſs<pb n="25" facs="tcp:98280:14"/>will not work the beſt effect, that can be deſign'd by rigour; gentle Means ſeem to be more according to the Spirit of the <hi>Go<g ref="char:EOLhyphen"/>ſpel,</hi> and there is no Party but thinks ſo, when it ſelf is in a ſuffering Condition: No man can ſay that Forbearance may not at leaſt, ſome<g ref="char:EOLhyphen"/>time be try'd. I come now therefore to the</p>
+            <p n="6">6. <hi>Sixth</hi> and laſt thing to be conſidered; Namely, in whoſe Power it is to inflict or not to inflict Temporal Puniſhments? And ſure it is in the Kings or Civil Governours, he can remit as well as puniſh, unleſs it ſhould be impiouſly pretended, that he is no better than a common Executioner; he has doubtleſs the ſupreme coercive Power; and the directive Power can only direct, not compel him to ſtrike; and where the ſame Perſon is ſuppos'd to be inveſted with the ſupreme directive, and the ſupreme coercive Power too, there ſure that perſon has Power to determine when ſuch Penalties are to be inflicted, ſuſpended or abrogated, as well as actually to inflict ſuſpend or abrogate.</p>
+            <p>The reſult therefore of what has been ſaid upon theſe ſix Conſiderations, is this Namely, That though Chriſt deſign'd Uni<g ref="char:EOLhyphen"/>ty in his Church and Religion, yet he has given no power to his Church to Force to it
+<pb n="26" facs="tcp:98280:15"/>by outward Penalties. When outward Pe<g ref="char:EOLhyphen"/>nalties have been inflicted, they were in<g ref="char:EOLhyphen"/>flicted by the Temporal Authority. That the inflicting theſe outward Penalties is not always and alike neceſſary; that it is in the power of the Supreme Civil Magiſtrate to inflict or not inflict them.</p>
+            <p>Let us therefore calmly conſider, what rea<g ref="char:EOLhyphen"/>ſon or ground there is for the mighty Out<g ref="char:EOLhyphen"/>cry, that there is amongſt ſome men againſt Tolleration in matters of Religion? As if all were loſt, and Religion undone, becauſe Men are not ſtill compell'd by outward Force. One thing muſt needs ſeem ſtrange and amazing to every conſidering Man; namely, to hear the ſame perſons inveigh againſt the <hi>French</hi> King for Executing the <hi>Penal Laws</hi> againſt Diſſenters in <hi>France,</hi> and againſt their own King for Suſpending the <hi>Penal Laws</hi> againſt Diſſenters in his Domi<g ref="char:EOLhyphen"/>nions; againſt that King for Perſecuting his Subjects, and againſt this King for not Per<g ref="char:EOLhyphen"/>ſecuting his: So St. <hi>John Baptiſt, Came neither Eating nor Drinking;</hi> and the <hi>Scribes</hi> and
+<hi>Phariſees</hi> ſay, <hi>Behold he has a Devil: The Son of Man came Eating and Drinking;</hi> and they ſay, <hi>Behold a man Gluttonous and a Wine-biber, a Friend to Publicans and Sinners:</hi>
+               <pb n="27" facs="tcp:98280:15"/>Whereas indeed neither was our Saviour any otherwiſe a Friend to <hi>Publicans</hi> and <hi>Sinners,</hi> then in his deſign to Save them: Nor had <hi>John Baptiſt</hi> a Devil: But ſure they whom nothing will pleaſe, are poſſeſs'd with a ſtrange Tetchy, and froward evil Spirit; and what our Saviour ſaid to his two Diſciples, may rightly be apply'd to them, <hi>They know not what manner of Spirit they are of.</hi> However, they ſeem not to conſider, what meekneſs the <hi>Goſpel</hi> injoyns, by what meekneſs it at firſt ſtood and prevail'd; they ſeem not to conſider the nature of that power, which <hi>Chriſt</hi> put into the Hands of his
+<hi>Church,</hi> which extend<g ref="char:EOLhyphen"/>ed only to Teaching, Exhorting, Rebuking, Adminiſtring Sacraments and Excommuni<g ref="char:EOLhyphen"/>cating: And that when outward Force has been made uſe of, it proceeded wholly from the Temporal Authority, and that it is in the power of this Authority to inflict or not to inflict Temporal puniſhments.</p>
+            <p>But now it may be ſome will be ready here to object, that whiles I Diſcourſe thus, I ſeem to forget two main things, which par<g ref="char:EOLhyphen"/>ticularize our Circumſtances; Namely, 1ſt. How His Majeſty has been pleas'd to ingage Himſelf to protect the preſent eſta<g ref="char:EOLhyphen"/>bliſh'd <hi>Church of England.</hi> 2dly. What the<pb n="28" facs="tcp:98280:16"/>particular conſtitution of Government is in theſe Kingdoms under His Majeſty. And though what has been ſaid already may be ſufficient to give ſatisfaction as to theſe two particulars; yet, in the reſidue of my Diſ<g ref="char:EOLhyphen"/>courſe, I will briefly ſay ſomething more to each. And</p>
+            <p>
+               <hi>Firſt,</hi> As to the Kings having ingag'd Himſelf to protect the preſent Eſtabliſh'd Church. The Church may be protected and effectually too, though the Civil Magiſtrate inflicts not Temporal Puniſhments upon thoſe that Diſſent from her, for Diſſenting. His Majeſty protects her and maintains her (as he ſays in his <hi>Gracious Declaration</hi>) <hi>In the free Exerciſe of her Religion, as by Law Eſta<g ref="char:EOLhyphen"/>bliſhed, and in the quiet and full Enjoyment of all her Poſſeſſions without any Moleſtation or Di<g ref="char:EOLhyphen"/>ſturbance whatſoever,</hi> How Happy would the primitive <hi>Chriſtians</hi> have thought them<g ref="char:EOLhyphen"/>ſelves, might they have had ſuch Protection. Nay, it is conſiderable, that it ſeems not im<g ref="char:EOLhyphen"/>probable that taking away the ſmart of
+<hi>Penal Laws</hi> from a Churches Adverſaries, may make that Church more ſafe becauſe it may make them leſs Induſtrious to Deſtroy her, ſince they find themſelves undiſturb'd by her ſtan<g ref="char:EOLhyphen"/>ding, and are not therefore vex'd into <hi>Conſpi<g ref="char:EOLhyphen"/>racies</hi> againſt her: And then</p>
+            <p>
+               <pb n="29" facs="tcp:98280:16"/>
+               <hi>Secondly,</hi> As to the preſent Churches par<g ref="char:EOLhyphen"/>ticular Conſtitutions in this Kingdom, they ſeem to Recognize a Right in the Civil Power, and particularly in the King to deter<g ref="char:EOLhyphen"/>mine at leaſt in Exteriors, and therefore when <hi>Penal Laws</hi> are to be Executed; for the firſt <hi>Canon</hi> ſays that,
+<note place="margin">Canon 1.</note> 
+               <hi>The Kings Power within His Realms of</hi> England, Scotland <hi>and</hi> Ireland, <hi>and all other His Dominions and Countries, is the higheſt Power under God, to whom all Men, as well Inhabitants as born within the ſame, do by Gods Laws owe moſt Loyalty and Obedience, afore, and above all Powers and Potentates up<g ref="char:EOLhyphen"/>on Earth.</hi> And in the five and fiftieth <hi>Canon</hi> it is injoyn'd to Pray for the King under the Title of,
+<note place="margin">Canon 55.</note> 
+               <hi>Our Soveraign Lord King of</hi> Eng<g ref="char:EOLhyphen"/>land, Scotland, France <hi>and</hi> Ireland, <hi>De<g ref="char:EOLhyphen"/>fender of the Faith, and Supreme Governour in theſe Realms, and Dominions, and Countries, over all Perſons and in all Cauſes, as well Ec<g ref="char:EOLhyphen"/>cleſiaſtical as Temporal.</hi>
+            </p>
+            <p>The Oath of Supremacy alſo Stiles him the <hi>Only Supreme Governour of this Realm, and of all other His Highneſſes Dominions and Countrys, as well in Spiritual or Eccleſiaſtical Things or Cauſes as Temporal.</hi> And therefore <hi>Charles</hi> I. the Royal Father of our preſent Gracious Soveraign, Stiles himſelf <hi>Head</hi> of
+<pb n="30" facs="tcp:98280:17"/>the <hi>Clergy,</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. cap. 17.</note> 
+               <hi>The tenuity and contempt of Clergy<g ref="char:EOLhyphen"/>men,</hi> (ſays he)
+<hi>will ſoon let them ſee what a poor Carcaſs they are, when parted from the influence of that Head to whoſe</hi> Supremacy <hi>they have been Sworn.</hi>
+            </p>
+            <p>So that the King in ſuſpending the <hi>Penal Laws,</hi> has done nothing contrary to His Royal and Gracious Promiſe to Protect the Church of <hi>England:</hi> Nothing beyond that Power, which the Church of
+<hi>England,</hi> in her <hi>publick</hi> Canons, ownes to be in the Kings of
+<hi>England,</hi> I beg leave therefore, humbly to Advertiſe thoſe Men of this Church, who are diſatiſ<g ref="char:EOLhyphen"/>fied with His Majeſty's late Gracious
+<hi>Decla<g ref="char:EOLhyphen"/>ration</hi> for <hi>Toleration,</hi> that they ſeem neither (at the ſame time whilſt they are ſo diſatiſ<g ref="char:EOLhyphen"/>fied) to conſider the
+<hi>Oeconomy</hi> of the <hi>Goſpel,</hi> the temper it requires in Chriſtians, nor what benefits of Protection the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> enjoys, nor what Power its <hi>Canons</hi> own to be in the King Doubtleſs the Actions and Expreſſions, very indiſcreet, (to give them no worſe Epithet) which ſome Men have been guilty of, and which they have been hurry'd into by a blind inconſiderate Zeal, have help'd (in a great meaſure) to introduce that <hi>Toleration</hi> which they now exclaim againſt; and yet after all the noiſe,<pb n="31" facs="tcp:98280:17"/>His Majeſty by the Power, which they Re<g ref="char:EOLhyphen"/>cognize in Him, deprives not the Church of any one Branch of that Power, which Chriſt gave to <hi>his</hi> Church: She may teach ſtill, ſhe may ſtill exhort, rebuke, enjoyn <hi>Penances,</hi> and Excommunicate thoſe of her Commu<g ref="char:EOLhyphen"/>nion as much as ever, So that I ſay, the King takes not away the Churches power, but only forbears Executing of His Own, in puniſhing
+<hi>Diſſenters</hi> for <hi>Diſſenting.</hi>
+            </p>
+            <p>And this is no more, than what our late King His Royal Brother did, for He alſo Granted an <hi>Indulgence</hi> to <hi>Diſſenters:</hi> Nay, no more than what His Royal Father <hi>Charles</hi> the Firſt adviſed His Son to, when <hi>Prince</hi> of <hi>Wales:</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, cap. 27.</note> When He bids Him <hi>Beware of exaſ<g ref="char:EOLhyphen"/>perating any Factions, by the croſſneſs and aſpe<g ref="char:EOLhyphen"/>rity of ſome Mens Paſſions, Humours, or private Opinions imploy'd by Him, grounded only upon differences in leſſer matters, which are but the Skirts and Suburbs of Religion; wherein con<g ref="char:EOLhyphen"/>nivance and Chriſtian-Toleration often diſſipates their ſtrength, whom rougher Oppoſition fortifies, and puts the deſpiſed and oppoſed Parties into ſuch combinations, as may moſt enable them to get a full revenge on thoſe they count their Perſecutors; who are commonly aſſiſted by that vulgar commi<g ref="char:EOLhyphen"/>ſeration which attends all that are ſaid to ſuffer under the notion of Religion.</hi>
+            </p>
+            <p>
+               <pb n="32" facs="tcp:98280:18"/>This that good <hi>King</hi> had too much cauſe to ſay, for He had found it true by a woful Experience; and this our preſent Gracious Sovereign ſeems to conſider. For He tells us in His
+<hi>Declaration,</hi> not only that <hi>Conſcience ought not to be conſtrain'd, but that He is con<g ref="char:EOLhyphen"/>firm'd in this Oppinion the more, by the Refle<g ref="char:EOLhyphen"/>ctions He has made upon the Conduct of the four laſt Reigns; for after all the frequent and preſ<g ref="char:EOLhyphen"/>ſing endeavours that were uſed in them, to reduce this Kingdom to an exact Conformity in Reli<g ref="char:EOLhyphen"/>gion, it is viſible that the Succeſs has not an<g ref="char:EOLhyphen"/>ſwered the Deſign, and that the Difficulty is invinſible:</hi> So that His Majeſty in Granting a <hi>Toleration,</hi> does no more than what His Brother did, no more than what His Father Adviſed, no more than what His Royal Wiſdom, by weighing the precedent man<g ref="char:EOLhyphen"/>agement of Publick Affairs, ſees to be ex<g ref="char:EOLhyphen"/>pedient and neceſſary. Nay, ſome of thoſe very Men, who ſo Zealouſly exclaim againſt it, have themſelves reſolv'd in Parliament (as I have been inform'd) and with a <hi>nemine contradicente,</hi> that the <hi>Penal Laws</hi> were grie<g ref="char:EOLhyphen"/>vous to the Subject, gave advantage to <hi>Pope<g ref="char:EOLhyphen"/>ry,</hi> and were deſtructive to the
+<hi>Proteſtant</hi> Religion; and why therefore ſhould theſe Men, eſpecially, be diſpleaſed, that the King<pb n="33" facs="tcp:98280:18"/>has ſuſpended ſuch Laws as themſelves thought ſo pernicious? Why ſhould they envy the King the Pleaſure and the Honour of thus mercifully eaſing His Subjects of their Grievances, and thereby ſecuring that Religion which theſe Patriots would ſeem ſo tender of? the Reaſon is too ſhameful to be mention'd, and therefore I ſhall paſs it over in ſilence.</p>
+            <p>And beſides, let us but conſider what good ſuch Severities have done? what ad<g ref="char:EOLhyphen"/>vantage the Church has made of putting the <hi>Penal Laws</hi> in Execution? It may be ſome very few by this means, have been brought to a real Conformity, whilſt none knows but that Gentleneſs might have won more. But then many have thereby been ſcar'd into Hypocriſy, and have entered under the Sa<g ref="char:EOLhyphen"/>cred Roofs only for ſhelter, not from meer Excommunication, no, this they accounted but <hi>Brutum fulmen:</hi> But from the danger which followed, to conſume their Goods and Eſtates. They choſe to go to Church, to keep from going to Goal. Whilſt many thouſands to avoid both, tranſplanted them<g ref="char:EOLhyphen"/>ſelves and Families in Foreign Countreys, to the ruine of Trade, and impoveriſhing the Kingdom; and others who ſtay'd though
+<pb n="34" facs="tcp:98280:19"/>devided among themſelves) yet united againſt the Church of <hi>England,</hi> which the ſeveral <hi>Diſſenters</hi> look'd upon as their Common Enemy, and under that notion it was ruin'd in the time of
+<hi>Charles</hi> the Firſt, and its over<g ref="char:EOLhyphen"/>throw has been contriving by them ever ſince. This has made the Peace of the King<g ref="char:EOLhyphen"/>dom unſettled, and render'd the Eſtates and Lives of its Inhabitants continually unſafe. And if the
+<hi>Diſſenters</hi> from her ſhould meet with as fit a Juncture, as Mr.
+<hi>Fox</hi> did, to Write a Book of <hi>Martyrs,</hi> to ſet forth in frightful repreſentations, the Proceedings of <hi>Eccleſiaſtical Courts,</hi> and deſcribe with ſuch horrid uglineſs, the <hi>Chancellors, Commiſſarys,</hi> and <hi>Apparitors,</hi> with the <hi>Impriſonments, Pillo<g ref="char:EOLhyphen"/>rings,</hi> and <hi>Baniſhments,</hi> with the <hi>Starvings of Families,</hi> the <hi>Burnings,</hi> the <hi>Hangings,</hi> and
+<hi>Quarterings</hi> which have been inflicted ſince the
+<hi>Reformation;</hi> doubtleſs it would cauſe as great a Dread and Abhorrence of the Church of <hi>England,</hi> as ever Mr. <hi>Foxe's</hi> Book did of that of <hi>Rome.</hi>
+            </p>
+            <p>For People have and do conſpire againſt their Perſecutors, or Proſecutors, whoever they be: and are provok'd by ſeverities, from whence ſoever they proceed, and when they are ſo provok'd, the danger is too great to<pb n="35" facs="tcp:98280:19"/>be ſlighted, where the Malecontents are nu<g ref="char:EOLhyphen"/>merous<g ref="char:punc">▪</g> For there never want Men, Men of no Religion, to make their advantage of the Religious Diſcontents in the miſtaken, tho well-meaning
+<hi>Diſſenters.</hi> So the Houſe of <hi>Bourbon,</hi> to revenge themſelves for the ſuppoſed wrong, which they had offer'd them in the Court of <hi>France,</hi> according to the ſub<g ref="char:EOLhyphen"/>tile advice of Admiral
+<hi>Coligny,</hi> made uſe of the <hi>Hughonots</hi> (who were diſcontented for being deny'd a <hi>Toleration</hi>) to work its dread<g ref="char:EOLhyphen"/>fu Revenge, and dreadful I may call it, for by this means, that wretched Kingdom groan'd under the diſmal miſery of a Civil. War for the ſpace of almoſt Forty years:
+<note place="margin">
+                  <hi>Davila</hi>'s Hiſt. of the Civil Wars of
+<hi>France, lib.</hi> 1. <hi>pag.</hi> 18, 19. Printed in the Year.
+1678.</note> So our Ambitious <hi>Commonwealths</hi>-Men made uſe of our
+<hi>Diſſenters</hi> to deſtroy <hi>Monarchy,</hi> when theſe
+<hi>Diſſenters</hi> alſo were diſcontented for want of a
+<hi>Toleration,</hi> and gall'd with the <hi>Penal Laws</hi> in the Reign of
+<hi>Charles</hi> the Firſt, and by their help they ſubverted the Govern<g ref="char:EOLhyphen"/>ment both of Church and State. In the doing of which, what Blood was ſpilt? what <hi>Rapine?</hi> what <hi>Sacriledges?</hi> what <hi>Mur<g ref="char:EOLhyphen"/>der</hi> was committed? But our Gracious King has prevented ſuch horrid Miſeries, has ſe<g ref="char:EOLhyphen"/>cur'd His Subjects from the like civil Ruins and Devaſtations, for by ſuſpending the <hi>Pe<g ref="char:EOLhyphen"/>nal<pb n="36" facs="tcp:98280:20"/>Laws,</hi> he has obſtucted the pernicious Deſigns of theſe wicked and
+<hi>Commonweal</hi>-principled-Men. It is in vain now for theſe Politicians to think to deſtroy the Govern<g ref="char:EOLhyphen"/>ment, and Uſurp the Rights of their King, and their fellow Subjects by thoſe that want a <hi>Toleration,</hi> for none want one. So that for my part, I ſee no reaſon why we ſhould not think ourſelves, why every Party ſhould not think it ſelf more ſafe now, than at any time for many years before; nor can I imagine (ſince the Church of
+<hi>England</hi> in her publick <hi>Canons</hi> and <hi>Conſtitutions,</hi> owns ſo much Power in the King) why her Members ſhould forbear thanking His Majeſty, for His Gra<g ref="char:EOLhyphen"/>cious Promiſe to make uſe of this Power, to Potect this Church, although Himſelf be of another; why, when all Parties return their grateful acknowledgments of His Roy<g ref="char:EOLhyphen"/>al Favour, they ſhould generally perſiſt in their <hi>Non-Addreſſing</hi> humour, and come be<g ref="char:EOLhyphen"/>hind even thoſe, whom they have tax'd with Diſ-loyalty. It will make ſome imagine, and they do object it, that the reaſon why the <hi>Diſſenters</hi> have been Diſ-loyal, is only becauſe Kings have endeavour'd to ſuppreſs them; and the reaſon, why the Members of the Church of <hi>England</hi> have been Loyal,<pb n="37" facs="tcp:98280:20"/>is only becauſe Kings have endeavoured to ſupport them by ſuppreſſing all that are not of her Communion,</p>
+            <p>But what Cauſe have any of her Mem<g ref="char:EOLhyphen"/>bers to murmur and complain? the King takes not from her any of thoſe means by which Chriſtianity at firſt prevail'd; nay, he protects her in the Exerciſe of her Religion, in the Injoyment of her Honours and Revenues. He ſuffers her not indeed to diſturb any for matters of meer Religion: But then he ſuffers none to diſturb her; for himſelf un<g ref="char:EOLhyphen"/>der the great King of Heaven is the Gracious and common Defence of all.</p>
+            <p>My humble advice is therefore, that none would follow the Humours of miſtaken, in<g ref="char:EOLhyphen"/>tereſted and revengeful Men, who care not though they Sacrifice the publick Peace to their own private Advantage and froward Diſcontent. It is but reaſonable, that all ſorts of Men endeavour to make His Ma<g ref="char:EOLhyphen"/>jeſties Government eaſie, for all enjoy the benefit of it, and that by a Peaceable and quiet Behaviour; and though there be difference in Religion, yet let there be one and the ſame Loyalty in all, for it is Due from all, and that upon the account of In<g ref="char:EOLhyphen"/>tereſt, as well as Duty. For according to
+<pb n="38" facs="tcp:98280:21"/>that ſaying of <hi>Caarles</hi> I.
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. cap. 15.</note> 
+               <hi>Different Profeſ<g ref="char:EOLhyphen"/>ſions in point of Religion cannot (any more then in civil Trades) take away that Community of Relations either to Parents or Princes.</hi> And before in the ſame Chapter, <hi>Differences of Perſuaſion may eaſily fall out, where there is the ſameneſs of Duty Allegiance and Loyalty.</hi> I wiſh with all my heart, that it were not ſeaſonable to advertiſe ſome Men, that as it is unlawful to take up Arms, ſo alſo even the Tongue or Pen, againſt the King, upon any pretence whatſoever. That the ſame Duty, Allegiance and Loyalty, not only obliges us to tye up our Hands from Strik<g ref="char:EOLhyphen"/>ing, but to reſtrain the Pen from Writing, and (that as ſharp Inſtrument) the Tongue from making any Invectives, any keen Re<g ref="char:EOLhyphen"/>flections upon the Actions of his Sacred Ma<g ref="char:EOLhyphen"/>jeſty, who is the common Parent of his Country; commonly the one is but a prepa<g ref="char:EOLhyphen"/>rative to the other; and Reflecting and Mur<g ref="char:EOLhyphen"/>muring but more wary ſteps to Rebellion. Let us not therefore upon any pretence what<g ref="char:EOLhyphen"/>ſoever, take up ſo much as theſe Weapons, and I am ſure as yet we have no colourable pretence to do ſo, and I really believe we never ſhall have any. Let us live in that peace, which the Spirit of meekneſs recom<g ref="char:EOLhyphen"/>mends,<pb n="39" facs="tcp:98280:21"/>and indiſpenſably injoyns. And let our main contention be, who ſhall moſt adorn His Chriſtian Profeſſion, by true Piety to God the King of Kings, by true Loyalty and Obedience to his Vicegerent King <hi>James</hi> the Second: May whoſe Gra<g ref="char:EOLhyphen"/>cious Reign continue over Us, till any Party ſhall deſire its own Suppreſſion by its Adver<g ref="char:EOLhyphen"/>ſary.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
